@@ -49,12 +49,13 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/RafaelPaiv/AutomacaoUI.Correios?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/RafaelPaiv/AutomacaoUI.Correios?style=for-the-badge)
 
+
 <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/ImagemCorreios.png" alt="Imagem Correios">
 
 Este projeto de automação de testes funcionais consiste em validar o site dos correios com relação as funcionalidades de buscar CEP e endereços, utilizando as tecnologias:
 
-- Cucumber: para implementar cenários de teste em lingugem natural (Gherkin) em conformidade com a metodologia BDD;
-- Junit: para validação do testes realizados;
+- Cucumber: para implementar cenários de teste em linguagem natural (Gherkin) em conformidade com a metodologia BDD;
+- Junit: para validação dos testes realizados;
 - FrameWork PageObjects: para uma abordagem de design em testes de interface de usuário (UI) automatizados;
 - Selenium: para automação de testes e interação com navegadores da web;
 - WebDriverManager: para simplificar a configuração e o gerenciamento de drivers de navegadores utilizados com a biblioteca Selenium.
@@ -74,7 +75,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, é necessário configurar o ambiente de desenvolvimento, verifique se você atendeu aos seguintes requisitos:
 
 * Instalou as versões mais recente do Java (JDK), Maven e Git;
-* Configurou as variáveis de ambiente para execuçaõ do projeto.
+* Configurou as variáveis de ambiente para execução do projeto.
 
 
 ## 🚀 Instalando <Projeto Automação Site Correios>
@@ -90,12 +91,17 @@ Para instalar o <Projeto Automação Site Correios>, siga estas etapas:
 <mvn test -Dtest=Executa>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <Projeto Automação Site Correios>
 
 Navegue até a raiz do projeto e execute os testes automatizados
 ```
 <mvn test -Dtest=Executa>
 ```
+
+## 📝 Relatório de teste
+
+Após a execução dos testes automáticos um relatório com informações sobre os testes realizados é gerado para acessá-lo na vegue até a pasta "target" na raiz do projeto local no seu computador (Para um melhor desempenho abrir com um navegador web). 
+
 
 ## 🤝 Colaboradores
 

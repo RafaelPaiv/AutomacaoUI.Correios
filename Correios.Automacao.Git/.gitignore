@@ -1,8 +1,17 @@
-#Diretório de saída Maven
+# Diretório de saída do Maven
 /target/
-/evidencias/
 
-#Arquivos de configuração do Eclipse
+# Arquivos de configuração do Eclipse
 .classpath
 .project
 .settings/
+
+# Relatórios de saída de teste
+/test-output/
+cucumber-reports/
+extent-report/
+
+# Logs e arquivos temporários
+logs/
+*.log
+*.tmp 
