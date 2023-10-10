@@ -45,11 +45,11 @@
 
 # Projeto automação site Correios
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
+![GitHub language count](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
+![GitHub forks](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
+![Bitbucket open issues](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
+![Bitbucket open pull requests](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
 
 <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/ImagemCorreios.png" alt="Imagem Correios">
 
@@ -107,25 +107,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/avatar_rafa_programming.jpg" width="100px; alt="Foto do Rafael Paiva no GitHub"/><br>
+        <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/imagem_RafaelPaiva_GitHub.jpg" width="100px; alt="Foto do Rafael Paiva no GitHub"/><br>
         <sub>
           <b>Rafael Paiva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
         </sub>
       </a>
     </td>
