@@ -53,7 +53,8 @@
 
 <img src="imagem.png" alt="Exemplo imagem">
 
-> Este projeto de automação de testes funcionais consiste em validar o site dos correios com relação as funcionalidades de buscar CEP e endereços, utilizando as tecnoligias:
+Este projeto de automação de testes funcionais consiste em validar o site dos correios com relação as funcionalidades de buscar CEP e endereços, utilizando as tecnologias:
+
 - Cucumber: para implementar cenários de teste em lingugem natural (Gherkin) em conformidade com a metodologia BDD;
 - Junit: para validação do testes realizados;
 - FrameWork PageObjects: para uma abordagem de design em testes de interface de usuário (UI) automatizados;
@@ -69,57 +70,34 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Automação dos testes da funcionalidade "Encontre sua Agência"
 - [ ] Automação dos testes da funcionalidade "Preços e Prazos"
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Antes de começar, é necessário configurar o ambiente de desenvolvimento, verifique se você atendeu aos seguintes requisitos:
 
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Instalou as versões mais recente do Java (JDK), Maven e Git;
+* Configurou as variáveis de ambiente para execuçaõ do projeto.
 
-## 🚀 Instalando <nome_do_projeto>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+## 🚀 Instalando <Projeto Automação Site Correios>
 
-Linux e macOS:
+Para instalar o <Projeto Automação Site Correios>, siga estas etapas:
+
+1. Clone o repositório no seu ambiente local
 ```
-<comando_de_instalação>
+<git clone "nome do repositório">
 ```
-
-Windows:
+2. Navegue até a raiz do projeto e execute os testes automatizados
 ```
-<comando_de_instalação>
+<mvn test -Dtest=Executa>
 ```
 
 ## ☕ Usando <nome_do_projeto>
 
-Para usar <nome_do_projeto>, siga estas etapas:
-
+Navegue até a raiz do projeto e execute os testes automatizados
 ```
-<exemplo_de_uso>
+<mvn test -Dtest=Executa>
 ```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 📫 Contribuindo para <nome_do_projeto>
-
-Para contribuir com <nome_do_projeto>, siga estas etapas:
-
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## 🤝 Colaboradores
 
