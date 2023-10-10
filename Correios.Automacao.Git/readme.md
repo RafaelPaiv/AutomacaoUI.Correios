@@ -107,7 +107,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/avatar_rafa_programming.jpg" alt="Foto do Rafael Paiva no GitHub"/><br>
+        <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/avatar_rafa_programming.jpg" width="100px; alt="Foto do Rafael Paiva no GitHub"/><br>
         <sub>
           <b>Rafael Paiva</b>
         </sub>
