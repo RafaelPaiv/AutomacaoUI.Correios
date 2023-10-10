@@ -51,7 +51,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/ImagemCorreios.png" alt="Imagem Correios">
 
 Este projeto de automação de testes funcionais consiste em validar o site dos correios com relação as funcionalidades de buscar CEP e endereços, utilizando as tecnologias:
 
@@ -107,9 +107,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/avatar_rafa_programming.jpg" alt="Foto do Rafael Paiva no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Rafael Paiva</b>
         </sub>
       </a>
     </td>
@@ -131,33 +131,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-
-
-
-
-
-
-
-
-
-
-# Projeto automação site Correios
-
-
-
-## Configuração Ambiente
-
-Para execução dos testes é necessário configurar o ambiente de desenvolvimento. Certifique-se de possuir as seguintes ferramentas instaladas:
-- Instalar JDK;
-- Instalar 
-
 
