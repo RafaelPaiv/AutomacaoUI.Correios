@@ -45,11 +45,9 @@
 
 # Projeto automação site Correios
 
-![GitHub repo size](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
-![GitHub language count](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
-![GitHub forks](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
-![Bitbucket open issues](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
-![Bitbucket open pull requests](https://github.com/RafaelPaiv/AutomacaoUI.Correios/tree/main/Correios.Automacao.Git)
+![GitHub repo size](https://img.shields.io/github/repo-size/RafaelPaiv/AutomacaoUI.Correios?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/RafaelPaiv/AutomacaoUI.Correios?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/RafaelPaiv/AutomacaoUI.Correios?style=for-the-badge)
 
 <img src="https://github.com/RafaelPaiv/AutomacaoUI.Correios/blob/main/Imagens_Git/ImagemCorreios.png" alt="Imagem Correios">
 
